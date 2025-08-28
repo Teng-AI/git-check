@@ -1,5 +1,1 @@
-It works!
-
-Hello from GitHub
-
-yo
+Hello world!
